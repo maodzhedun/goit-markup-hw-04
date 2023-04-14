@@ -1,3 +1,3 @@
-# goit-markup-hw-03
+# goit-markup-hw-04
 
-HTML +CSS Flex
+HTML + CSS + Flex + SVG
