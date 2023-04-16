@@ -250,7 +250,19 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
   gap: 24px;
 }
 
-.feature-link {
+/* .feature-link { */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* width: 264px; */
+  /* height: 112px; */
+  /* margin-bottom: 8px; */
+
+  /* background: var(--light-bg-color); */
+  /* border-radius: 4px; */
+/* } */
+
+.feature-icons {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -260,10 +272,6 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 
   background: var(--light-bg-color);
   border-radius: 4px;
-}
-
-.feature-icons {
-  
 }
 
 .feature-list-it {
@@ -341,6 +349,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 }
 .container {
 }
+
 .customer-title {
   margin-bottom: 72px;
   line-height: 1.1;
@@ -412,11 +421,6 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 }
 
 .link {
-}
-
-/* .socials-icons { */
-  width: 16px;
-  height: 16px;
 }
 
 /* Section button */
