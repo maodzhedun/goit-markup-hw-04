@@ -328,7 +328,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
   text-align: center;
 }
 
-/* Custiomer styles */
+/* Customer styles */
 
 
 .customer-section {
@@ -350,6 +350,9 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .list {
 }
 .clients-items {
+  display: flex;
+  justify-content: center;
+  width: calc(100% - 120px / 6);
 }
 
 .clients-link {
@@ -601,4 +604,6 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .card-title {
   margin-bottom: 8px;
 }
+
+
 
